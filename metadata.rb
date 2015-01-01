@@ -4,7 +4,7 @@ maintainer_email 'spain@livesafemobile.com'
 license          'All rights reserved'
 description      'Installs/Configures lvsf-opsworks-php-cookbook'
 long_description 'Installs/Configures lvsf-opsworks-php-cookbook'
-version          '1.0.5'
+version          '1.0.6'
 
 depends 'ohai'
 depends 'apt'
